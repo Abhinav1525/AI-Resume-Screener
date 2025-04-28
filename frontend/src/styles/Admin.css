@@ -1,0 +1,16 @@
+.admin {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .admin ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .admin li {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+  }
+  

@@ -1,0 +1,14 @@
+.upload {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .upload input, .upload textarea, .upload button {
+    display: block;
+    margin: 10px auto;
+  }
+  
+  .result {
+    margin-top: 20px;
+  }
+  
